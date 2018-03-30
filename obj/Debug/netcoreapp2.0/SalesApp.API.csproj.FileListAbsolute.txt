@@ -1,0 +1,10 @@
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/bin/Debug/netcoreapp2.0/SalesApp.API.deps.json
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/bin/Debug/netcoreapp2.0/SalesApp.API.runtimeconfig.json
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/bin/Debug/netcoreapp2.0/SalesApp.API.runtimeconfig.dev.json
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/bin/Debug/netcoreapp2.0/SalesApp.API.dll
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/bin/Debug/netcoreapp2.0/SalesApp.API.pdb
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/obj/Debug/netcoreapp2.0/SalesApp.API.csproj.CoreCompileInputs.cache
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/obj/Debug/netcoreapp2.0/SalesApp.API.AssemblyInfoInputs.cache
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/obj/Debug/netcoreapp2.0/SalesApp.API.AssemblyInfo.cs
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/obj/Debug/netcoreapp2.0/SalesApp.API.dll
+/Users/jacobplumb/Documents/SalesApp/SalesApp.API/obj/Debug/netcoreapp2.0/SalesApp.API.pdb
